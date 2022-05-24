@@ -187,8 +187,18 @@
 
 
         </StackPanel>
-        <Grid>
-             
+        
+        
+        <Grid VerticalAlignment="Center"
+              Name="PlayerGrid"
+              Visibility="Collapsed"
+              HorizontalAlignment="Center"
+              Width="320">
+            <StackPanel Orientation="Horizontal">
+                <Button>
+                    
+                </Button>
+            </StackPanel>     
         </Grid>
     </Grid>
 </Window>
