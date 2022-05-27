@@ -117,7 +117,7 @@
     <Resource Include="Resources\img_folder.png" />
     <Resource Include="Resources\img_genre.png" />
     <Resource Include="Resources\img_hiphop.png" />
-    <Resource Include="Resources\img_history.png" />
+    <Resource Include="Resources\img_news.png" />
     <Resource Include="Resources\img_home.png" />
     <Resource Include="Resources\img_hotkey.png" />
     <Resource Include="Resources\img_input.png" />
