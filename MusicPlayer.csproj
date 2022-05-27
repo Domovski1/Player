@@ -136,5 +136,14 @@
     <Resource Include="Resources\shutdown_def.png" />
     <Resource Include="Resources\shutdown_mo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img_pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img_pause2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\pause.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -44,7 +44,7 @@
                         Width="40"
                         Height="40">
                 
-                    <Image Source="Resources/shutdown_mo.png"
+                    <Image Source="Resources/img_jazz.png"
                            Stretch="None"/>
                 
                 </Button>
@@ -55,7 +55,7 @@
                         Click="PauesePlay_Btn_Click"
                         Height="40">
                 
-                    <Image Source="Resources/shutdown_def.png"
+                    <Image Source="Resources/pause.png"
                            Stretch="None"/>
                 
                 </Button>
