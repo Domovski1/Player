@@ -111,11 +111,11 @@
                 </MenuItem>
 
 
-                <MenuItem Header="История"
+                <MenuItem Header="Новости"
                           Template="{StaticResource Menu_Template}">
 
                     <MenuItem.Icon>
-                        <Image Source="Resources/img_home.png"
+                        <Image Source="Resources/img_news.png"
                                Stretch="None"/>
                     </MenuItem.Icon>
 
