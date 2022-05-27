@@ -43,7 +43,7 @@
                         VerticalAlignment="Center"
                         HorizontalAlignment="Right"/>
 
-                <TextBlock Text="PRO DESIGN"
+                <TextBlock Text="Д О М О В С К И Й"
                            Foreground="#fff"
                            FontSize="15"
                            FontFamily="Fonts/#Orbitron Medium"
@@ -187,18 +187,11 @@
 
 
         </StackPanel>
-        
-        
-        <Grid VerticalAlignment="Center"
-              Name="PlayerGrid"
-              Visibility="Collapsed"
-              HorizontalAlignment="Center"
-              Width="320">
-            <StackPanel Orientation="Horizontal">
-                <Button>
-                    
-                </Button>
-            </StackPanel>     
-        </Grid>
+
+
+        <Frame HorizontalAlignment="Right"
+               Width="670"
+               x:Name="MainFrame"
+               NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

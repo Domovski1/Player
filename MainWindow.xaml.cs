@@ -27,7 +27,8 @@ namespace MusicPlayer
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Music");
+            MainFrame.Navigate(new PlayerPage());
+            //MessageBox.Show("Music");
         }
     }
 }
